@@ -13,4 +13,10 @@ indexes:
 - kind: C
   ancestor: yes
   properties:
+  - name: active
+  - name: name
+
+- kind: C
+  ancestor: yes
+  properties:
   - name: name
